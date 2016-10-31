@@ -20,7 +20,7 @@
 <script src="js/lightbox-2.6.min.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=no" />
-<title>题库系统-登陆</title>
+<title>题库系统-登录</title>
 <style>
     body{
     	background-color:#f1f1f1;
@@ -295,7 +295,7 @@
 </head>
 <body>
     <DIV class="font_head">东华大学</DIV>
-    <DIV class="font_subhead">题库系统登陆</DIV>
+    <DIV class="font_subhead">题库系统登录</DIV>
     <div class="font_note" style="text-align:center;margin:-20 0 0;"><?php echo $msg;?></div>
     <center><form action="search.php" method="POST" class="form" name="form" id="form1">
         <div><lable class="font_note">&nbsp学&nbsp号&nbsp</lable><input type="text" id="input" class="input" name="Id" /></div>
